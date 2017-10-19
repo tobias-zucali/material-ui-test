@@ -1,16 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { HashRouter } from 'react-router-dom';
-import { ThemeProvider } from 'react-jss';
+import { MuiThemeProvider } from 'material-ui/styles';
 
 import App from './App';
 import theme from './theme';
 import './index.css';
 
 ReactDOM.render((
-  <ThemeProvider theme={theme}>
+  <MuiThemeProvider theme={theme}>
     <HashRouter>
       <App />
     </HashRouter>
-  </ThemeProvider>
+  </MuiThemeProvider>
 ), document.getElementById('root'))
