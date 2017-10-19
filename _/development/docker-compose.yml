@@ -1,0 +1,14 @@
+version: "2"
+
+services:
+  react:
+    build:
+      context: ./webpack
+      args:
+        - HOSTUID=$HOSTUID
+        - HOSTGID=$HOSTGID
+
+    volumes:
+      -  ../../app:/project
+    ports:
+      - "0.0.0.0:3000:3000"
