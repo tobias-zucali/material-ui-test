@@ -26,7 +26,7 @@ declare module 'material-ui/AppBar/AppBar' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/AppBar/index' {
+declare module 'material-ui/AppBar' {
   declare module.exports: any;
 }
 
@@ -34,7 +34,7 @@ declare module 'material-ui/Avatar/Avatar' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Avatar/index' {
+declare module 'material-ui/Avatar' {
   declare module.exports: any;
 }
 
@@ -42,7 +42,7 @@ declare module 'material-ui/Badge/Badge' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Badge/index' {
+declare module 'material-ui/Badge' {
   declare module.exports: any;
 }
 
@@ -54,7 +54,7 @@ declare module 'material-ui/BottomNavigation/BottomNavigationButton' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/BottomNavigation/index' {
+declare module 'material-ui/BottomNavigation' {
   declare module.exports: any;
 }
 
@@ -62,7 +62,7 @@ declare module 'material-ui/Button/Button' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Button/index' {
+declare module 'material-ui/Button' {
   declare module.exports: any;
 }
 
@@ -74,7 +74,7 @@ declare module 'material-ui/ButtonBase/createRippleHandler' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/ButtonBase/index' {
+declare module 'material-ui/ButtonBase' {
   declare module.exports: any;
 }
 
@@ -106,7 +106,7 @@ declare module 'material-ui/Card/CardMedia' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Card/index' {
+declare module 'material-ui/Card' {
   declare module.exports: any;
 }
 
@@ -114,7 +114,7 @@ declare module 'material-ui/Checkbox/Checkbox' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Checkbox/index' {
+declare module 'material-ui/Checkbox' {
   declare module.exports: any;
 }
 
@@ -122,7 +122,7 @@ declare module 'material-ui/Chip/Chip' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Chip/index' {
+declare module 'material-ui/Chip' {
   declare module.exports: any;
 }
 
@@ -166,7 +166,7 @@ declare module 'material-ui/colors/grey' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/colors/index' {
+declare module 'material-ui/colors' {
   declare module.exports: any;
 }
 
@@ -230,7 +230,7 @@ declare module 'material-ui/Dialog/DialogTitle' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Dialog/index' {
+declare module 'material-ui/Dialog' {
   declare module.exports: any;
 }
 
@@ -242,7 +242,7 @@ declare module 'material-ui/Divider/Divider' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Divider/index' {
+declare module 'material-ui/Divider' {
   declare module.exports: any;
 }
 
@@ -250,7 +250,7 @@ declare module 'material-ui/Drawer/Drawer' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Drawer/index' {
+declare module 'material-ui/Drawer' {
   declare module.exports: any;
 }
 
@@ -274,7 +274,7 @@ declare module 'material-ui/Form/FormLabel' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Form/index' {
+declare module 'material-ui/Form' {
   declare module.exports: any;
 }
 
@@ -282,7 +282,7 @@ declare module 'material-ui/Grid/Grid' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Grid/index' {
+declare module 'material-ui/Grid' {
   declare module.exports: any;
 }
 
@@ -298,7 +298,7 @@ declare module 'material-ui/GridList/GridListTileBar' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/GridList/index' {
+declare module 'material-ui/GridList' {
   declare module.exports: any;
 }
 
@@ -314,7 +314,7 @@ declare module 'material-ui/Hidden/HiddenJs' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Hidden/index' {
+declare module 'material-ui/Hidden' {
   declare module.exports: any;
 }
 
@@ -326,7 +326,7 @@ declare module 'material-ui/Icon/Icon' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Icon/index' {
+declare module 'material-ui/Icon' {
   declare module.exports: any;
 }
 
@@ -334,15 +334,15 @@ declare module 'material-ui/IconButton/IconButton' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/IconButton/index' {
+declare module 'material-ui/IconButton' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/index.es' {
+declare module 'material-ui.es' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Input/index' {
+declare module 'material-ui/Input' {
   declare module.exports: any;
 }
 
@@ -390,7 +390,7 @@ declare module 'material-ui/internal/Transition' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/List/index' {
+declare module 'material-ui/List' {
   declare module.exports: any;
 }
 
@@ -422,7 +422,7 @@ declare module 'material-ui/List/ListSubheader' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Menu/index' {
+declare module 'material-ui/Menu' {
   declare module.exports: any;
 }
 
@@ -438,7 +438,7 @@ declare module 'material-ui/Menu/MenuList' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/MobileStepper/index' {
+declare module 'material-ui/MobileStepper' {
   declare module.exports: any;
 }
 
@@ -446,7 +446,7 @@ declare module 'material-ui/MobileStepper/MobileStepper' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Paper/index' {
+declare module 'material-ui/Paper' {
   declare module.exports: any;
 }
 
@@ -454,7 +454,7 @@ declare module 'material-ui/Paper/Paper' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Popover/index' {
+declare module 'material-ui/Popover' {
   declare module.exports: any;
 }
 
@@ -466,7 +466,7 @@ declare module 'material-ui/Progress/CircularProgress' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Progress/index' {
+declare module 'material-ui/Progress' {
   declare module.exports: any;
 }
 
@@ -474,7 +474,7 @@ declare module 'material-ui/Progress/LinearProgress' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Radio/index' {
+declare module 'material-ui/Radio' {
   declare module.exports: any;
 }
 
@@ -486,7 +486,7 @@ declare module 'material-ui/Radio/RadioGroup' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Select/index' {
+declare module 'material-ui/Select' {
   declare module.exports: any;
 }
 
@@ -498,7 +498,7 @@ declare module 'material-ui/Select/SelectInput' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Snackbar/index' {
+declare module 'material-ui/Snackbar' {
   declare module.exports: any;
 }
 
@@ -542,7 +542,7 @@ declare module 'material-ui/styles/getStylesCreator' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/styles/index' {
+declare module 'material-ui/styles' {
   declare module.exports: any;
 }
 
@@ -618,7 +618,7 @@ declare module 'material-ui/svg-icons/RadioButtonUnchecked' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/SvgIcon/index' {
+declare module 'material-ui/SvgIcon' {
   declare module.exports: any;
 }
 
@@ -626,7 +626,7 @@ declare module 'material-ui/SvgIcon/SvgIcon' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Switch/index' {
+declare module 'material-ui/Switch' {
   declare module.exports: any;
 }
 
@@ -634,7 +634,7 @@ declare module 'material-ui/Switch/Switch' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Table/index' {
+declare module 'material-ui/Table' {
   declare module.exports: any;
 }
 
@@ -670,7 +670,7 @@ declare module 'material-ui/Table/TableSortLabel' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Tabs/index' {
+declare module 'material-ui/Tabs' {
   declare module.exports: any;
 }
 
@@ -706,7 +706,7 @@ declare module 'material-ui/test-utils/getClasses' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/test-utils/index' {
+declare module 'material-ui/test-utils' {
   declare module.exports: any;
 }
 
@@ -714,7 +714,7 @@ declare module 'material-ui/test-utils/until' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/TextField/index' {
+declare module 'material-ui/TextField' {
   declare module.exports: any;
 }
 
@@ -722,7 +722,7 @@ declare module 'material-ui/TextField/TextField' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Toolbar/index' {
+declare module 'material-ui/Toolbar' {
   declare module.exports: any;
 }
 
@@ -730,7 +730,7 @@ declare module 'material-ui/Toolbar/Toolbar' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Tooltip/index' {
+declare module 'material-ui/Tooltip' {
   declare module.exports: any;
 }
 
@@ -754,7 +754,7 @@ declare module 'material-ui/transitions/Slide' {
   declare module.exports: any;
 }
 
-declare module 'material-ui/Typography/index' {
+declare module 'material-ui/Typography' {
   declare module.exports: any;
 }
 
@@ -806,20 +806,20 @@ declare module 'material-ui/utils/withWidth' {
 declare module 'material-ui/AppBar/AppBar.js' {
   declare module.exports: $Exports<'material-ui/AppBar/AppBar'>;
 }
-declare module 'material-ui/AppBar/index.js' {
-  declare module.exports: $Exports<'material-ui/AppBar/index'>;
+declare module 'material-ui/AppBar.js' {
+  declare module.exports: $Exports<'material-ui/AppBar'>;
 }
 declare module 'material-ui/Avatar/Avatar.js' {
   declare module.exports: $Exports<'material-ui/Avatar/Avatar'>;
 }
-declare module 'material-ui/Avatar/index.js' {
-  declare module.exports: $Exports<'material-ui/Avatar/index'>;
+declare module 'material-ui/Avatar.js' {
+  declare module.exports: $Exports<'material-ui/Avatar'>;
 }
 declare module 'material-ui/Badge/Badge.js' {
   declare module.exports: $Exports<'material-ui/Badge/Badge'>;
 }
-declare module 'material-ui/Badge/index.js' {
-  declare module.exports: $Exports<'material-ui/Badge/index'>;
+declare module 'material-ui/Badge.js' {
+  declare module.exports: $Exports<'material-ui/Badge'>;
 }
 declare module 'material-ui/BottomNavigation/BottomNavigation.js' {
   declare module.exports: $Exports<'material-ui/BottomNavigation/BottomNavigation'>;
@@ -827,14 +827,14 @@ declare module 'material-ui/BottomNavigation/BottomNavigation.js' {
 declare module 'material-ui/BottomNavigation/BottomNavigationButton.js' {
   declare module.exports: $Exports<'material-ui/BottomNavigation/BottomNavigationButton'>;
 }
-declare module 'material-ui/BottomNavigation/index.js' {
-  declare module.exports: $Exports<'material-ui/BottomNavigation/index'>;
+declare module 'material-ui/BottomNavigation.js' {
+  declare module.exports: $Exports<'material-ui/BottomNavigation'>;
 }
 declare module 'material-ui/Button/Button.js' {
   declare module.exports: $Exports<'material-ui/Button/Button'>;
 }
-declare module 'material-ui/Button/index.js' {
-  declare module.exports: $Exports<'material-ui/Button/index'>;
+declare module 'material-ui/Button.js' {
+  declare module.exports: $Exports<'material-ui/Button'>;
 }
 declare module 'material-ui/ButtonBase/ButtonBase.js' {
   declare module.exports: $Exports<'material-ui/ButtonBase/ButtonBase'>;
@@ -842,8 +842,8 @@ declare module 'material-ui/ButtonBase/ButtonBase.js' {
 declare module 'material-ui/ButtonBase/createRippleHandler.js' {
   declare module.exports: $Exports<'material-ui/ButtonBase/createRippleHandler'>;
 }
-declare module 'material-ui/ButtonBase/index.js' {
-  declare module.exports: $Exports<'material-ui/ButtonBase/index'>;
+declare module 'material-ui/ButtonBase.js' {
+  declare module.exports: $Exports<'material-ui/ButtonBase'>;
 }
 declare module 'material-ui/ButtonBase/Ripple.js' {
   declare module.exports: $Exports<'material-ui/ButtonBase/Ripple'>;
@@ -866,20 +866,20 @@ declare module 'material-ui/Card/CardHeader.js' {
 declare module 'material-ui/Card/CardMedia.js' {
   declare module.exports: $Exports<'material-ui/Card/CardMedia'>;
 }
-declare module 'material-ui/Card/index.js' {
-  declare module.exports: $Exports<'material-ui/Card/index'>;
+declare module 'material-ui/Card.js' {
+  declare module.exports: $Exports<'material-ui/Card'>;
 }
 declare module 'material-ui/Checkbox/Checkbox.js' {
   declare module.exports: $Exports<'material-ui/Checkbox/Checkbox'>;
 }
-declare module 'material-ui/Checkbox/index.js' {
-  declare module.exports: $Exports<'material-ui/Checkbox/index'>;
+declare module 'material-ui/Checkbox.js' {
+  declare module.exports: $Exports<'material-ui/Checkbox'>;
 }
 declare module 'material-ui/Chip/Chip.js' {
   declare module.exports: $Exports<'material-ui/Chip/Chip'>;
 }
-declare module 'material-ui/Chip/index.js' {
-  declare module.exports: $Exports<'material-ui/Chip/index'>;
+declare module 'material-ui/Chip.js' {
+  declare module.exports: $Exports<'material-ui/Chip'>;
 }
 declare module 'material-ui/colors/amber.js' {
   declare module.exports: $Exports<'material-ui/colors/amber'>;
@@ -911,8 +911,8 @@ declare module 'material-ui/colors/green.js' {
 declare module 'material-ui/colors/grey.js' {
   declare module.exports: $Exports<'material-ui/colors/grey'>;
 }
-declare module 'material-ui/colors/index.js' {
-  declare module.exports: $Exports<'material-ui/colors/index'>;
+declare module 'material-ui/colors.js' {
+  declare module.exports: $Exports<'material-ui/colors'>;
 }
 declare module 'material-ui/colors/indigo.js' {
   declare module.exports: $Exports<'material-ui/colors/indigo'>;
@@ -959,8 +959,8 @@ declare module 'material-ui/Dialog/DialogContentText.js' {
 declare module 'material-ui/Dialog/DialogTitle.js' {
   declare module.exports: $Exports<'material-ui/Dialog/DialogTitle'>;
 }
-declare module 'material-ui/Dialog/index.js' {
-  declare module.exports: $Exports<'material-ui/Dialog/index'>;
+declare module 'material-ui/Dialog.js' {
+  declare module.exports: $Exports<'material-ui/Dialog'>;
 }
 declare module 'material-ui/Dialog/withResponsiveFullScreen.js' {
   declare module.exports: $Exports<'material-ui/Dialog/withResponsiveFullScreen'>;
@@ -968,14 +968,14 @@ declare module 'material-ui/Dialog/withResponsiveFullScreen.js' {
 declare module 'material-ui/Divider/Divider.js' {
   declare module.exports: $Exports<'material-ui/Divider/Divider'>;
 }
-declare module 'material-ui/Divider/index.js' {
-  declare module.exports: $Exports<'material-ui/Divider/index'>;
+declare module 'material-ui/Divider.js' {
+  declare module.exports: $Exports<'material-ui/Divider'>;
 }
 declare module 'material-ui/Drawer/Drawer.js' {
   declare module.exports: $Exports<'material-ui/Drawer/Drawer'>;
 }
-declare module 'material-ui/Drawer/index.js' {
-  declare module.exports: $Exports<'material-ui/Drawer/index'>;
+declare module 'material-ui/Drawer.js' {
+  declare module.exports: $Exports<'material-ui/Drawer'>;
 }
 declare module 'material-ui/Form/FormControl.js' {
   declare module.exports: $Exports<'material-ui/Form/FormControl'>;
@@ -992,14 +992,14 @@ declare module 'material-ui/Form/FormHelperText.js' {
 declare module 'material-ui/Form/FormLabel.js' {
   declare module.exports: $Exports<'material-ui/Form/FormLabel'>;
 }
-declare module 'material-ui/Form/index.js' {
-  declare module.exports: $Exports<'material-ui/Form/index'>;
+declare module 'material-ui/Form.js' {
+  declare module.exports: $Exports<'material-ui/Form'>;
 }
 declare module 'material-ui/Grid/Grid.js' {
   declare module.exports: $Exports<'material-ui/Grid/Grid'>;
 }
-declare module 'material-ui/Grid/index.js' {
-  declare module.exports: $Exports<'material-ui/Grid/index'>;
+declare module 'material-ui/Grid.js' {
+  declare module.exports: $Exports<'material-ui/Grid'>;
 }
 declare module 'material-ui/GridList/GridList.js' {
   declare module.exports: $Exports<'material-ui/GridList/GridList'>;
@@ -1010,8 +1010,8 @@ declare module 'material-ui/GridList/GridListTile.js' {
 declare module 'material-ui/GridList/GridListTileBar.js' {
   declare module.exports: $Exports<'material-ui/GridList/GridListTileBar'>;
 }
-declare module 'material-ui/GridList/index.js' {
-  declare module.exports: $Exports<'material-ui/GridList/index'>;
+declare module 'material-ui/GridList.js' {
+  declare module.exports: $Exports<'material-ui/GridList'>;
 }
 declare module 'material-ui/Hidden/Hidden.js' {
   declare module.exports: $Exports<'material-ui/Hidden/Hidden'>;
@@ -1022,8 +1022,8 @@ declare module 'material-ui/Hidden/HiddenCss.js' {
 declare module 'material-ui/Hidden/HiddenJs.js' {
   declare module.exports: $Exports<'material-ui/Hidden/HiddenJs'>;
 }
-declare module 'material-ui/Hidden/index.js' {
-  declare module.exports: $Exports<'material-ui/Hidden/index'>;
+declare module 'material-ui/Hidden.js' {
+  declare module.exports: $Exports<'material-ui/Hidden'>;
 }
 declare module 'material-ui/Hidden/types.js' {
   declare module.exports: $Exports<'material-ui/Hidden/types'>;
@@ -1031,26 +1031,26 @@ declare module 'material-ui/Hidden/types.js' {
 declare module 'material-ui/Icon/Icon.js' {
   declare module.exports: $Exports<'material-ui/Icon/Icon'>;
 }
-declare module 'material-ui/Icon/index.js' {
-  declare module.exports: $Exports<'material-ui/Icon/index'>;
+declare module 'material-ui/Icon.js' {
+  declare module.exports: $Exports<'material-ui/Icon'>;
 }
 declare module 'material-ui/IconButton/IconButton.js' {
   declare module.exports: $Exports<'material-ui/IconButton/IconButton'>;
 }
-declare module 'material-ui/IconButton/index.js' {
-  declare module.exports: $Exports<'material-ui/IconButton/index'>;
+declare module 'material-ui/IconButton.js' {
+  declare module.exports: $Exports<'material-ui/IconButton'>;
 }
-declare module 'material-ui/index.es.js' {
-  declare module.exports: $Exports<'material-ui/index.es'>;
+declare module 'material-ui.es.js' {
+  declare module.exports: $Exports<'material-ui.es'>;
 }
-declare module 'material-ui/index' {
+declare module 'material-ui' {
   declare module.exports: $Exports<'material-ui'>;
 }
-declare module 'material-ui/index.js' {
+declare module 'material-ui.js' {
   declare module.exports: $Exports<'material-ui'>;
 }
-declare module 'material-ui/Input/index.js' {
-  declare module.exports: $Exports<'material-ui/Input/index'>;
+declare module 'material-ui/Input.js' {
+  declare module.exports: $Exports<'material-ui/Input'>;
 }
 declare module 'material-ui/Input/Input.js' {
   declare module.exports: $Exports<'material-ui/Input/Input'>;
@@ -1085,8 +1085,8 @@ declare module 'material-ui/internal/SwitchBase.js' {
 declare module 'material-ui/internal/Transition.js' {
   declare module.exports: $Exports<'material-ui/internal/Transition'>;
 }
-declare module 'material-ui/List/index.js' {
-  declare module.exports: $Exports<'material-ui/List/index'>;
+declare module 'material-ui/List.js' {
+  declare module.exports: $Exports<'material-ui/List'>;
 }
 declare module 'material-ui/List/List.js' {
   declare module.exports: $Exports<'material-ui/List/List'>;
@@ -1109,8 +1109,8 @@ declare module 'material-ui/List/ListItemText.js' {
 declare module 'material-ui/List/ListSubheader.js' {
   declare module.exports: $Exports<'material-ui/List/ListSubheader'>;
 }
-declare module 'material-ui/Menu/index.js' {
-  declare module.exports: $Exports<'material-ui/Menu/index'>;
+declare module 'material-ui/Menu.js' {
+  declare module.exports: $Exports<'material-ui/Menu'>;
 }
 declare module 'material-ui/Menu/Menu.js' {
   declare module.exports: $Exports<'material-ui/Menu/Menu'>;
@@ -1121,20 +1121,20 @@ declare module 'material-ui/Menu/MenuItem.js' {
 declare module 'material-ui/Menu/MenuList.js' {
   declare module.exports: $Exports<'material-ui/Menu/MenuList'>;
 }
-declare module 'material-ui/MobileStepper/index.js' {
-  declare module.exports: $Exports<'material-ui/MobileStepper/index'>;
+declare module 'material-ui/MobileStepper.js' {
+  declare module.exports: $Exports<'material-ui/MobileStepper'>;
 }
 declare module 'material-ui/MobileStepper/MobileStepper.js' {
   declare module.exports: $Exports<'material-ui/MobileStepper/MobileStepper'>;
 }
-declare module 'material-ui/Paper/index.js' {
-  declare module.exports: $Exports<'material-ui/Paper/index'>;
+declare module 'material-ui/Paper.js' {
+  declare module.exports: $Exports<'material-ui/Paper'>;
 }
 declare module 'material-ui/Paper/Paper.js' {
   declare module.exports: $Exports<'material-ui/Paper/Paper'>;
 }
-declare module 'material-ui/Popover/index.js' {
-  declare module.exports: $Exports<'material-ui/Popover/index'>;
+declare module 'material-ui/Popover.js' {
+  declare module.exports: $Exports<'material-ui/Popover'>;
 }
 declare module 'material-ui/Popover/Popover.js' {
   declare module.exports: $Exports<'material-ui/Popover/Popover'>;
@@ -1142,14 +1142,14 @@ declare module 'material-ui/Popover/Popover.js' {
 declare module 'material-ui/Progress/CircularProgress.js' {
   declare module.exports: $Exports<'material-ui/Progress/CircularProgress'>;
 }
-declare module 'material-ui/Progress/index.js' {
-  declare module.exports: $Exports<'material-ui/Progress/index'>;
+declare module 'material-ui/Progress.js' {
+  declare module.exports: $Exports<'material-ui/Progress'>;
 }
 declare module 'material-ui/Progress/LinearProgress.js' {
   declare module.exports: $Exports<'material-ui/Progress/LinearProgress'>;
 }
-declare module 'material-ui/Radio/index.js' {
-  declare module.exports: $Exports<'material-ui/Radio/index'>;
+declare module 'material-ui/Radio.js' {
+  declare module.exports: $Exports<'material-ui/Radio'>;
 }
 declare module 'material-ui/Radio/Radio.js' {
   declare module.exports: $Exports<'material-ui/Radio/Radio'>;
@@ -1157,8 +1157,8 @@ declare module 'material-ui/Radio/Radio.js' {
 declare module 'material-ui/Radio/RadioGroup.js' {
   declare module.exports: $Exports<'material-ui/Radio/RadioGroup'>;
 }
-declare module 'material-ui/Select/index.js' {
-  declare module.exports: $Exports<'material-ui/Select/index'>;
+declare module 'material-ui/Select.js' {
+  declare module.exports: $Exports<'material-ui/Select'>;
 }
 declare module 'material-ui/Select/Select.js' {
   declare module.exports: $Exports<'material-ui/Select/Select'>;
@@ -1166,8 +1166,8 @@ declare module 'material-ui/Select/Select.js' {
 declare module 'material-ui/Select/SelectInput.js' {
   declare module.exports: $Exports<'material-ui/Select/SelectInput'>;
 }
-declare module 'material-ui/Snackbar/index.js' {
-  declare module.exports: $Exports<'material-ui/Snackbar/index'>;
+declare module 'material-ui/Snackbar.js' {
+  declare module.exports: $Exports<'material-ui/Snackbar'>;
 }
 declare module 'material-ui/Snackbar/Snackbar.js' {
   declare module.exports: $Exports<'material-ui/Snackbar/Snackbar'>;
@@ -1199,8 +1199,8 @@ declare module 'material-ui/styles/createTypography.js' {
 declare module 'material-ui/styles/getStylesCreator.js' {
   declare module.exports: $Exports<'material-ui/styles/getStylesCreator'>;
 }
-declare module 'material-ui/styles/index.js' {
-  declare module.exports: $Exports<'material-ui/styles/index'>;
+declare module 'material-ui/styles.js' {
+  declare module.exports: $Exports<'material-ui/styles'>;
 }
 declare module 'material-ui/styles/MuiThemeProvider.js' {
   declare module.exports: $Exports<'material-ui/styles/MuiThemeProvider'>;
@@ -1256,20 +1256,20 @@ declare module 'material-ui/svg-icons/RadioButtonChecked.js' {
 declare module 'material-ui/svg-icons/RadioButtonUnchecked.js' {
   declare module.exports: $Exports<'material-ui/svg-icons/RadioButtonUnchecked'>;
 }
-declare module 'material-ui/SvgIcon/index.js' {
-  declare module.exports: $Exports<'material-ui/SvgIcon/index'>;
+declare module 'material-ui/SvgIcon.js' {
+  declare module.exports: $Exports<'material-ui/SvgIcon'>;
 }
 declare module 'material-ui/SvgIcon/SvgIcon.js' {
   declare module.exports: $Exports<'material-ui/SvgIcon/SvgIcon'>;
 }
-declare module 'material-ui/Switch/index.js' {
-  declare module.exports: $Exports<'material-ui/Switch/index'>;
+declare module 'material-ui/Switch.js' {
+  declare module.exports: $Exports<'material-ui/Switch'>;
 }
 declare module 'material-ui/Switch/Switch.js' {
   declare module.exports: $Exports<'material-ui/Switch/Switch'>;
 }
-declare module 'material-ui/Table/index.js' {
-  declare module.exports: $Exports<'material-ui/Table/index'>;
+declare module 'material-ui/Table.js' {
+  declare module.exports: $Exports<'material-ui/Table'>;
 }
 declare module 'material-ui/Table/Table.js' {
   declare module.exports: $Exports<'material-ui/Table/Table'>;
@@ -1295,8 +1295,8 @@ declare module 'material-ui/Table/TableRow.js' {
 declare module 'material-ui/Table/TableSortLabel.js' {
   declare module.exports: $Exports<'material-ui/Table/TableSortLabel'>;
 }
-declare module 'material-ui/Tabs/index.js' {
-  declare module.exports: $Exports<'material-ui/Tabs/index'>;
+declare module 'material-ui/Tabs.js' {
+  declare module.exports: $Exports<'material-ui/Tabs'>;
 }
 declare module 'material-ui/Tabs/Tab.js' {
   declare module.exports: $Exports<'material-ui/Tabs/Tab'>;
@@ -1322,26 +1322,26 @@ declare module 'material-ui/test-utils/createShallow.js' {
 declare module 'material-ui/test-utils/getClasses.js' {
   declare module.exports: $Exports<'material-ui/test-utils/getClasses'>;
 }
-declare module 'material-ui/test-utils/index.js' {
-  declare module.exports: $Exports<'material-ui/test-utils/index'>;
+declare module 'material-ui/test-utils.js' {
+  declare module.exports: $Exports<'material-ui/test-utils'>;
 }
 declare module 'material-ui/test-utils/until.js' {
   declare module.exports: $Exports<'material-ui/test-utils/until'>;
 }
-declare module 'material-ui/TextField/index.js' {
-  declare module.exports: $Exports<'material-ui/TextField/index'>;
+declare module 'material-ui/TextField.js' {
+  declare module.exports: $Exports<'material-ui/TextField'>;
 }
 declare module 'material-ui/TextField/TextField.js' {
   declare module.exports: $Exports<'material-ui/TextField/TextField'>;
 }
-declare module 'material-ui/Toolbar/index.js' {
-  declare module.exports: $Exports<'material-ui/Toolbar/index'>;
+declare module 'material-ui/Toolbar.js' {
+  declare module.exports: $Exports<'material-ui/Toolbar'>;
 }
 declare module 'material-ui/Toolbar/Toolbar.js' {
   declare module.exports: $Exports<'material-ui/Toolbar/Toolbar'>;
 }
-declare module 'material-ui/Tooltip/index.js' {
-  declare module.exports: $Exports<'material-ui/Tooltip/index'>;
+declare module 'material-ui/Tooltip.js' {
+  declare module.exports: $Exports<'material-ui/Tooltip'>;
 }
 declare module 'material-ui/Tooltip/Tooltip.js' {
   declare module.exports: $Exports<'material-ui/Tooltip/Tooltip'>;
@@ -1358,8 +1358,8 @@ declare module 'material-ui/transitions/Grow.js' {
 declare module 'material-ui/transitions/Slide.js' {
   declare module.exports: $Exports<'material-ui/transitions/Slide'>;
 }
-declare module 'material-ui/Typography/index.js' {
-  declare module.exports: $Exports<'material-ui/Typography/index'>;
+declare module 'material-ui/Typography.js' {
+  declare module.exports: $Exports<'material-ui/Typography'>;
 }
 declare module 'material-ui/Typography/Typography.js' {
   declare module.exports: $Exports<'material-ui/Typography/Typography'>;
